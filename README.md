@@ -6,3 +6,4 @@ ASS 5:https://github.com/2303A52328/stastical/blob/main/STML_ASS_5.ipynb
 ASS 2:https://github.com/2303A52328/stastical/blob/main/STML_ASS_2.ipynb
 ASS 6:https://github.com/2303A52328/stastical/blob/main/STML_ASS_6.ipynb
 ASS 7:https://github.com/2303A52328/stastical/blob/main/STML_ASS_7.ipynb
+ASS 8:https://github.com/2303A52328/stastical/blob/main/STML_ASS_08.ipynb
